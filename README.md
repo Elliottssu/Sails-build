@@ -1,0 +1,1 @@
+sails new <name>,sails默认生成的文件
